@@ -1,0 +1,15 @@
+[{
+        "id": "100001",
+        "email": "macu05b@gmail.com",
+        "password": "12345678",
+        "accountType": "Chequing",
+        "accountBalance": 0
+    },
+    {
+        "id": "100002",
+        "email": "john@beatles.uk",
+        "password": "lennon",
+        "accountType": "Savings",
+        "accountBalance": 0
+    }
+]
